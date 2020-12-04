@@ -1,0 +1,22 @@
+{
+  "name": "adventny-kalendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axnpydev/adventny-kalendar.git"
+  },
+  "author": "AnXPyDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axnpydev/adventny-kalendar/issues"
+  },
+  "homepage": "https://github.com/axnpydev/adventny-kalendar#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
